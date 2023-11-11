@@ -1,0 +1,13 @@
+Nama : Aininda Surya Saputri
+NIM : 23421041
+Kelas: Teknik Informatika 2021 (UNUSIDA)
+
+
+Program server soket Python dijalankan pada awalnya dan membaca permintaan dari server ke client
+Kemudian program server akan merespon sesuai dengan permintaan client
+
+Perbedaan dengan 
+Minggu 5 : Implementation Client Server with Command Line = Client to Server hanya mampu menjalankan permintaan 
+							    sekali.
+Minggu 7 : Client Server with Periodic Request = Client to Server mampu menjalankan permintaan berkali-kali
+						 dengan server yang berbeda-beda.
